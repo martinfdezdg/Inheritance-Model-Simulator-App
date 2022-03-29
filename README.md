@@ -1,2 +1,3 @@
 # Solar-System-Physics-Simulator
-Proyecto: Simulador físico del sistema solar
+## Procedimiento de compilación/ejecución
+> Abrir proyecto en Eclipse
